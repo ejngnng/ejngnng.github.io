@@ -10,12 +10,12 @@ layout: home
 ---
 
 
-# AutoFeed
+# [AutoFeed](https://github.com/ejngnng/auto_feed_fsm)
 
 Auto feed machine for laser cut. Develop with PlatformIO IDE.
 
 
-# auto_feed_fsm
+# [auto_feed_fsm](https://github.com/ejngnng/auto_feed_fsm)
 
 The same as [AutoFeed](https://github.com/ejngnng/AutoFeed), but develop with Arduino IDE.
 
