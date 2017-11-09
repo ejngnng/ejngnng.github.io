@@ -20,3 +20,7 @@ Auto feed machine for laser cut. Develop with PlatformIO IDE.
 The same as [auto_feed_v2](https://github.com/ejngnng/auto_feed_v1), but develop with Arduino IDE.
 
 
+# [pmbus_v2](https://github.com/ejngnng/pmbus_v2)
+
+This is for VICOR BCM pmbus communication. Develop with PlatformIO IDE.
+
