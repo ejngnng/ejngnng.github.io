@@ -24,3 +24,7 @@ The same as [auto_feed_v2](https://github.com/ejngnng/auto_feed_v1), but develop
 
 This is for VICOR BCM pmbus communication. Develop with PlatformIO IDE.
 
+# [MQTT_Demo](https://github.com/ejngnng/MQTT_Demo)
+
+This project is mqtt demo with python
+
