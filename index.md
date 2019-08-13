@@ -10,29 +10,13 @@ layout: home
 ---
 
 
-# [auto_feed_v2](https://github.com/ejngnng/auto_feed_v2)
+# wiki
 
-Auto feed machine for laser cut. Develop with PlatformIO IDE.
+# Linux
 
+# Python
 
-# [auto_feed_v1](https://github.com/ejngnng/auto_feed_v1)
+# C\#
 
-The same as [auto_feed_v2](https://github.com/ejngnng/auto_feed_v1), but develop with Arduino IDE.
-
-
-# [pmbus_v2](https://github.com/ejngnng/pmbus_v2)
-
-This project for VICOR BCM pmbus communication. Develop with PlatformIO IDE.
-
-# [pmbus_v1](https://github.com/ejngnng/pmbus_v2)
-
-This project for VICOR BCM pmbus communication. Develop with Arduino IDE.
-
-# [MQTT_Demo](https://github.com/ejngnng/MQTT_Demo)
-
-This project is mqtt demo with python
-
-# [DataSpider](https://github.com/ejngnng/DataSpider)
-
-web spider write with python3
+# Hardware
 
